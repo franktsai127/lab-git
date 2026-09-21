@@ -146,3 +146,4 @@ Papers + some implementation notes:
 MIT
 
 Git lab pull request exercise.
+This is an intentional typo for git revert exercsie.
